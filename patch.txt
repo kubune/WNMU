@@ -1,1 +1,1 @@
-https://google.com
+https://raw.githubusercontent.com/kubune/WNMU/main/secret.jpg
